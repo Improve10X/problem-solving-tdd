@@ -1,6 +1,5 @@
-package fibonacciseries;
+package com.improve10x.fibonacciseries;
 
-import com.improve10x.fibonacciseries.Fibonacci;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
