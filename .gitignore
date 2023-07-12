@@ -2,3 +2,5 @@
 /Problem Solving Using TDD.iml
 /out/
 /problem-solving-tdd.iml
+.DS_Store
+src/.DS_Store
